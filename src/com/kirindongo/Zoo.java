@@ -21,17 +21,26 @@ public class Zoo {
 
 		}
 
+		/**
+		 * Add animal to Zoo
+		 */
 		void add(){
 
 		}
+
+		/**
+		 * Removes an animal from Zoo
+		 */
 		void remove(){
 
 		}
+
+		/**
+		 * Welke dieren vandaag jarig zijn
+		 * Welke dieren vandaag gevoerd moeten worden
+		 * Gebruik een Date Object als parameter, zodat je dit ook op bijvoorbeeld de dag van morgen kan testen.
+		 */
 		void update(){
-				/**
-				 * Welke dieren vandaag jarig zijn
-				 * Welke dieren vandaag gevoerd moeten worden
-				 * Gebruik een Date Object als parameter, zodat je dit ook op bijvoorbeeld de dag van morgen kan testen.
-				 */
+
 		}
 }

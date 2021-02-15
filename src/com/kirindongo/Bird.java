@@ -3,7 +3,7 @@ package com.kirindongo;
 import java.time.LocalDate;
 
 /**
- * Feeding schedule: 1x/2 days
+ * Feeding schedule:e 1x/2 days
  */
 public class Bird extends Animal{
 
